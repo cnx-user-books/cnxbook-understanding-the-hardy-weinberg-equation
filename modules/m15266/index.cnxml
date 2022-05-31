@@ -1,0 +1,178 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Are Genotype Fequencies Necessarily Maintained Across Generations When A Population is Not Evolving?</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>31c3f182-1443-4a17-8f76-d5af48300e5e</md:uuid>
+</metadata>
+  <content>
+    <para id="delete_me">When all individuals in a population have an equal likelihood of surviving and producing surviving offspring, i.e. no <link document="m15262" target-id="element-637">agents of evolution</link> operate on a population, alleles end up in gametes and, in turn the offspring generation in direct proportion to their <link target-id="element-603">frequencies</link> in the parental generation.  This causes a population's <emphasis>allele frequencies</emphasis> to be perpetuated unchanged from one generation to the next, a condition known as <link target-id="element-603">genetic equilibrium</link>. 
+    </para><para id="element-102">Does the same thing hold true for <emphasis>genotype</emphasis> frequencies? That is, when  every individual has an equal probability of surviving and producing surviving offspring <emphasis>are the genotype frequencies of the parental generation necessarily replicated in the offspring generation?</emphasis>  </para>
+<section id="genotype">
+<title>How do genotypes form when every individual is equally likely to survive and reproduce?</title>
+<para id="element-380">To investigate the relationship between parental and offspring generation genotype frequencies when a population is not being influenced by an agent of evolution, let’s review how offspring genotypes are formed when every potential parent is equally likely to survive and reproduce. </para><para id="element-550">Under these conditions, the allele contributed by one parent does not and is not influenced in anyway by the allele contributed by the second parent; there is no sexual selection. Nor is a parent's likelihood of contributing alleles to the next generation influenced by environmental circumstances that favor survival of one parental phenotype over another or by chance events as occur during genetic drift.    </para><para id="element-917">Thus, if survival and reproduction are truly random events, each parent's allelic contribution to fertilization is a statistically independent event. Put differently, the genotype of the resulting offspring is the result of two <emphasis>independent</emphasis>, <emphasis>chance</emphasis> events - one chance event per allele. Imagine drawing two parents at random from a population and randomly collecting one allele from each.</para><para id="element-938">Test your understanding by answering the question below.</para><exercise id="element-515"><problem id="idm198480">
+		<para id="element-697">If <link url="http://www1.istockphoto.com/file_thumbview_approve/1637902/2/istockphoto_1637902_peacock_and_female.jpg">female</link> peacocks prefer to mate with males who have a larger number of <link url="http://www.birding.in/images/Birds/indian_peacock.jpg">eye-spots</link> on their elaborate tail feathers over males with fewer eye-spots (and the number of eye-spots is heritable), is the likelihood that a male will contribute alleles to the next generation independent of, i.e. unaffected by, the female? Why or why not? Please explain.
+		</para>
+	</problem>
+
+	<solution id="idm4058032">
+		<para id="element-358">No, male and female contributions to a fertilization event are not independent. Females preferentially mate with males with a larger number of tail feather eye-spots. This favors the likelihood that the alleles associated with this trait will end up in the next generation over alleles associated with fewer eye-spots. This is sexual selection, i.e. non-random mating.
+		</para>
+	</solution>
+</exercise>
+</section> 
+<section id="equation">
+<title>How do we calculate the probability that a particular genotype will form when every individual is equally likely to survive and reproduce?</title>
+<para id="element-975">When the independent events condition described <link target-id="element-550">above</link> is met, a given <emphasis>genotype</emphasis> is expected to appear in the offspring generation with a likelihood equal to: </para><list id="element-885" list-type="bulleted"><item>the mathematical product (multiplication) of the <emphasis>frequency</emphasis> with which each <emphasis>allele</emphasis> forming the genotype occurs in the parental generation. </item>
+	</list><para id="element-411">This is just a simple rule of probability. The likelihood that an event, composed of two or more independent events, will occur is equal to the mathematical product of the likelihood that each event will occur independently.  </para><para id="element-66">Review the bulleted definition above to see that it also makes biological sense.  The likelihood that a given genotype will form is equal to the probability of picking first one then the second of the two alleles necessary to form it. And, the probability of picking an allele directly reflects its <link target-id="delete_me">relative commonness (frequency) in the parental population</link>. </para><para id="element-971">Finally, note that this likelihood also represents the <emphasis>frequency</emphasis> with which we expect to observe the genotype in the offspring generation. This makes sense because how frequently we expect to see the genotype in the offspring generation is the direct result of how likely it is to form. Genotypes that have a low probability of forming, because the alleles that comprise them are relatively rare in the parental generation, will appear infrequently in the offspring generation.</para>
+</section> 
+<section id="onemore">
+<title> Is it exactly that simple?</title>
+<para id="element-325">There is one more thing to consider when determining the probability that given genotype will appear in the next generation; that is the number of ways a particular genotype can form.   </para><para id="element-653">Remember that the likelihood a particular genotype will form is equal to the probability of picking first one then the second of the two alleles necessary to form it. There is only one way to form a homozygote; both parents must donate the same allele. For example, the <emphasis>AA</emphasis> genotype can only form if, when one parent donates an <emphasis>A</emphasis>, the other does as well. Heterozygotes, in contrast, can form in two ways; 'parent one' can donate an <emphasis>A</emphasis> and 'parent two' an <emphasis>a</emphasis> or 'parent one' can donate an <emphasis>a</emphasis> and 'parent two' an <emphasis>A</emphasis>.  </para><para id="element-921">The fact that there are two routes to heterozygote formation must be taken into consideration when calculating the likelihood that the heterozygous genotype will occur in the offspring generation. To account for this,  <emphasis>you must multiply the probability that a heterozygote will form by two, i.e. multiply the value described in the bulleted point above by two.</emphasis> </para><para id="element-705">You should now have the tools to answer the question posed at the start of this module:  </para></section> 
+<section id="question">
+<title>Are parental genotype frequencies necessarily reproduced in the offspring generation when all individuals are equally likely to survive and reproduce?</title>
+<para id="element-936">To answer the question titling this section and the module, let’s start by asking what you need to know. Then let’s figure out how you can get that information. To do this, review the question, the information provided in previous sections and develop a table similar to that below.  </para><table id="element-901" summary="">
+<tgroup cols="2"><tbody>
+  <row>
+    <entry>What do I need to know to answer this question? </entry>
+    <entry>How do I get this information? </entry>
+  </row>
+  <row>
+    <entry/>
+    <entry/>
+  </row>
+  <row>
+    <entry/>
+    <entry/>
+  </row>
+  <row>
+    <entry/>
+    <entry/>
+  </row>
+  <row>
+    <entry/>
+    <entry/>
+  </row>
+</tbody>
+
+
+
+
+
+</tgroup>
+</table><para id="element-900">Check your outline above by working through the example below.   </para><figure id="element-288"><media id="idm13085792" alt=""><image src="../../media/Figure 3 resize.jpg" mime-type="image/jpeg"/></media></figure><exercise id="element-10"><problem id="idm7821248">
+		<para id="element-574">
+			Review Figure 1. Imagine that these parents mate randomly. What genotypes could their offspring exhibit?  Put another way, what allele combinations could we see in the offspring generation if every parent has an equal chance of reproducing and thus contributing an allele to the next generation?  
+		</para>
+	</problem>
+
+	<solution id="idm14204704">
+		<para id="element-907">Since two alleles exist for this locus in this population, <emphasis>A</emphasis> and <emphasis>a</emphasis>, three possible genotypes can occur in the offspring of these parents. These three genotypes are: 
+		</para><list id="element-224" list-type="bulleted"><item><emphasis>AA</emphasis></item>
+	<item><emphasis>aa</emphasis></item>
+	<item><emphasis>Aa</emphasis></item></list><para id="element-195">Recall that the last  can form in two ways: <emphasis>Aa</emphasis> or <emphasis>aA</emphasis>.</para>
+	</solution>
+</exercise><exercise id="element-423"><problem id="idp129104">
+		<para id="element-527">Calculate how frequently we expect to observe each possible genotype identified in problem 1.  Please show your work. Refer to the outline you developed or reread the preceding sections for guidance. 
+		</para>
+	</problem>
+
+	<solution id="idm13390352">
+		<para id="element-620">The frequency with which a genotype will occur in the offspring generation <link target-id="element-885">is equal to</link> the multiplicative product of the frequency with which each allele comprising the genotype appears in the parent generation. 
+		</para><para id="element-240">Counting the buckets depicted in Figure 1 above reveals that the <emphasis>A</emphasis> allele occurs with a frequency equal to 15 out of 20 or 0.75 and the <emphasis>a</emphasis> with a frequency equal to 5 out of 20 or 0.25 in the parental generation. Consequently,</para><list id="element-611" list-type="bulleted"><item>the <emphasis>AA</emphasis> genotype will occur with a frequency equal to 0.75 x 0.75 = 0.5625 in the offspring generation.</item>
+	<item>the <emphasis>aa</emphasis> genotype will occur with a frequency equal to 0.25 x 0.25 = 0.0625 in the offspring generation.</item>
+	<item>the <emphasis>Aa</emphasis> genotype will occur with a frequency equal to (0.75 x 0.25) x 2 = 0.375 in the offspring generation.</item></list>
+	</solution>
+</exercise><para id="element-862">Now check your work: have you identified every possible genotype that could appear in the offspring generation when each parent has an equal chance of reproducing in the population above? </para><para id="element-253">To do this, consider the following: if we have identified every possible genotype, then the frequencies calculated in question 2 will sum to 1 (i.e. 100%) because we will have accounted for 100% of the genotypes that could possibly occur in the offspring if all parents have an equal chance of reproducing and contributing alleles to the next generation.    </para><exercise id="element-90"><problem id="idm13919744">
+		<para id="element-789">
+			Check your work. Have you omitted any possible offspring genotypes? How do you know? Please explain.  
+		</para>
+	</problem>
+
+	<solution id="idm7740640">
+		<para id="element-116">We have not omitted any possible genotypes because the expected genotype frequencies (0.5625 + 0.0625 + 0.375) sum to 1 as expected if we have accounted for every possible genotype that could occur in the offspring generation of a randomly mating, parental generation with these allele frequencies.
+		</para>
+	</solution>
+</exercise><exercise id="element-566"><problem id="idm6855056">
+		<para id="element-629">
+			 If you have missed a genotype, what one do you think you have missed? Why?
+		</para>
+	</problem>
+
+	<solution id="idm5088288">
+		<para id="element-890">If you missed one genotype, it was probably a heterozygote, either <emphasis>Aa</emphasis> or <emphasis>aA</emphasis>. Review the information found <link target-id="element-653">here</link> to understand the likely source of your error.
+		</para>
+	</solution>
+</exercise><para id="element-819">If you have missed one, correct your response to question 2 above. Now you should have an accurate description of the offspring genotype frequencies that will materialize when every parent has an equal chance of reproducing in this population.</para><exercise id="element-388"><problem id="idm6267776">
+		<para id="element-662">Finally, we are ready to address the question heading this module, are offspring generation genotype frequencies necessarily expected to be the same as parental generation genotype frequencies when every parent has an equal chance of surviving and reproducing? Please explain using your results to support your conclusion. 
+		</para>
+	</problem>
+
+	<solution id="idm7832336">
+		<para id="element-947">No, parental and offspring generation genotype frequencies will not necessarily be the same in a population that is not evolving. Our data support this conclusion because in the parental generation above, the <emphasis>AA</emphasis>, <emphasis>aa</emphasis>, and <emphasis>Aa</emphasis> genotypes occur with frequencies equal to 5 out of 10 or 0.5, 0 out of 10 or 0.0 and 5 out of 10 or 0.5, respectively. Whereas, if these parents mate randomly, the <emphasis>AA</emphasis>, <emphasis>aa</emphasis>, and <emphasis>Aa</emphasis> genotypes will occur in their offspring with frequencies equal to 0.5625, 0.0625 and 0.375 respectively. 
+		</para>
+	</solution>
+</exercise><exercise id="element-741"><problem id="idm6999216">
+		<para id="element-669">
+			How confident are you that parental genotypes are not necessarily recreated in the offspring generation when every parent has an equal probability of surviving and reproducing? Please explain.
+		</para>
+	</problem>
+
+	<solution id="idm7921104">
+		<para id="element-735">Any response in which you discuss elements about which you are confused or describe your understanding is acceptable. 
+		</para>
+	</solution>
+</exercise><para id="element-144">Now let’s confirm that random reproduction produces the offspring genotypes we predicted based on the parental allele frequencies above.  To do so, we will run a simulation in which the computer will randomly pick 50 pairs of alleles to represent 50 random fertilization events. </para><exercise id="element-373"><problem id="idm13260448">
+		<para id="element-638">Are the genotype frequencies in the offspring generation produced by the simulation the same as those you predicted? Yes or no? Please explain.  
+		</para>
+	</problem>
+
+	<solution id="idm7629808">
+		<para id="element-812">Yes, they are. The <emphasis>AA</emphasis>, <emphasis>aa</emphasis>, and <emphasis>Aa</emphasis> genotypes occur with frequencies equal to 0.5625, 0.0625 and 0.375 respectively in the offspring generation of the simulation exactly as predicted.
+		</para>
+	</solution>
+</exercise><exercise id="element-623"><problem id="idm3208144">
+		<para id="element-501">Do the data support the prediction you made about the similarity between parental and offspring genotype frequencies in problem 6 above?  Yes or no? Please explain using evidence to support your conclusion. 
+		</para>
+	</problem>
+
+	<solution id="idm604592">
+		<para id="element-249">Best answers describe the prediction you made in problem 6 and how the data from the simulation do or do not support that expectation.
+		</para>
+	</solution>
+</exercise><exercise id="element-3"><problem id="idm4977728">
+		<para id="element-218">Imagine randomly mating the offspring generation just produced.  Would you expect the genotype frequencies of their offspring to differ from their own? Yes or no?   Please explain your conclusion and support it with evidence either logical or actual.  
+		</para>
+	</problem>
+
+	<solution id="idm5720176">
+		<para id="element-828">The genotypes frequencies should not differ between these two generations. You can support this using data collected from the simulation or by calculating the genotype frequencies one expects to see in their offspring as a result of random mating by these parents. This is illustrated below. F1 refers to the offspring generation just produced and F2 refers to their offspring. 
+		</para><para id="element-451">To calculate F2 genotype frequencies, the first pieces of information we need are the allele frequencies of their parent's generation, F1. </para><para id="element-695">We know that the allele frequencies of the F1 generation are identical <link target-id="element-240">to those of their parent's generation</link> because every parent had an equal likelihood of surviving and mating (i.e. they were not subject to an agent of evolution). Consequently, in the F1 generation </para><list id="element-51" list-type="bulleted"><item><emphasis>A</emphasis> occurs with a frequency of 0.75</item>
+	<item><emphasis>a</emphasis> occurs with a frequency of 0.25</item>
+	</list><para id="element-291">Since the same allele frequencies and the same method are used to calculate the genotype frequencies for both the F1 and F2 generations, the genotype frequencies of these two generations must be identical.  </para><para id="element-177">To confirm this, review below:</para><list id="element-641" list-type="bulleted"><item>the <emphasis>AA</emphasis> genotype will occur in the F2 generation with a frequency equal to 0.75 x 0.75 = 0.5625.</item>
+	<item>the <emphasis>aa</emphasis> genotype will occur in the F2 generation with a frequency equal to 0.25 x 0.25 = 0.0625.</item>
+	<item>the <emphasis>Aa</emphasis> genotype will occur in the F2 generation with a frequency equal to (0.75 x 0.25) x 2 = 0.375.</item></list><para id="element-668">and these calculations are identical to those we made to calculate the genotype frequencies for the F1 generation in <link target-id="element-611">problem 3</link>. </para>
+	</solution>
+</exercise><exercise id="element-868"><problem id="idm3134048">
+		<para id="element-927">What do the conclusions to problems 9 and 6 suggest about the potential for similarity between parental and offspring generation allele frequencies when a population is not subject to any agents of evolution? Please explain.
+		</para>
+	</problem>
+
+	<solution id="idm3393792">
+		<para id="element-29">In some cases, parental and offspring generation genotype frequencies may be the same and in others they may differ. The results demonstrate that if a parental generation, like F1, is the product of random mating and is itself not subject to any evolutionary pressures then its own genotype frequencies will be replicated in its offspring as observed in F2.
+		</para>
+	</solution>
+</exercise><exercise id="element-878"><problem id="idm13836528">
+		<para id="element-175">a. Finally, return to the simulation and click the box marked X, run it and record the results. Notice that the parent generation is identical to that in Figure 1. Review the results. Do you think that the offspring generation is the product of random mating? Why or why not? Please explain using data to support your conclusion. 
+		</para><para id="element-428">b. What do these results indicate about the similarity between the allele frequencies of the parent and offspring generations? Why? Please explain.</para>
+	</problem>
+
+	<solution id="idm14285280">
+		<para id="element-374">a. The data suggest that the offspring were not the product of random mating because the genotype frequencies observed in the offspring generation differ greatly from those predicted Hardy-Weinberg and thus when the population is not subject to any agents of evolution. 
+		</para><para id="element-397">b. The parent and offspring generations must have different allele frequencies because if they were the same, then the genotype frequencies of the offspring generation would be equal to those  calculated by Hardy-Weinberg.</para>
+	</solution>
+</exercise><list id="element-603" list-type="bulleted"><title> Definitions</title>
+<item><emphasis>frequency</emphasis> - the number of times an event or observation, for example a particular measurement or condition like blue eyes, is observed in a collection of events or observations like those comprising a sample, population or study. In this statistical sense, a frequency is equivalent to a proportion. For example, the frequency of a particular allele is equal to the number of times that allele is observed in a population over the total number of alleles for that locus in the population. Can be expressed as a fraction, a percentage, a decimal, or a probability. </item>
+<item><emphasis>genetic equilibrium</emphasis> - state of a population in which allele frequencies remain unchanged from one generation to the next.</item>
+</list>
+</section> 
+  </content>
+  
+</document>

@@ -1,0 +1,31 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>A Population Geneticist's Defintion of Evolution</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>34eebd50-9feb-43e5-aed5-24f09bfaa623</md:uuid>
+</metadata>
+  <content>
+<section id="human">
+<title>Are Humans Evolving?</title>
+    <para id="delete_me">In 2005, Stefasson <cite><cite-title>et al.</cite-title></cite> reported the fascinating discovery of an allele in humans whose presence is associated with increased fertility in Icelandic and European populations. Females with at least one copy of the allele have approximately 3.5%, and males 2.9%, more children on average than non-carriers. The exact mechanism by which the allele affects fertility is unknown.
+    </para><para id="element-365">1. <emphasis>Predict:</emphasis> Consider what you know about evolution. Do you think these populations are likely to be evolving with respect to this allele? Why or why not? Please make sure your response illustrates your understanding of evolution.</para><para id="element-898">2. <emphasis>Test:</emphasis> Describe one way you could test your prediction <emphasis>quantitatively</emphasis>.  What data would enable you to conclude that these human populations are evolving? What results would support the contention they are not? </para>
+</section>
+<section id="evol">
+<title>Differential Survival and Reproduction Underpin Evolution</title>
+<para id="element-637">The fascinating discovery above should have called to mind the key causes, a.k.a. 'agents', of evolution 
+
+</para><list id="element-595" list-type="bulleted"><item>natural selection</item>
+	<item>sexual selection</item>
+	<item>genetic drift (including bottle necks and founder effects)</item>
+<item>immigration/emigration </item>
+<item>mutation</item></list><para id="element-154">and their consequences. All cause a population to evolve by altering the <link target-id="element-23">frequency</link> with which particular phenotypes, their underlying genotypes and most importantly the responsible alleles, occur.  This quantitative description of the genetic consequences of these evolutionary mechanisms is encapsulated by the population geneticists definition of evolution: </para><list id="element-892" list-type="bulleted"><item><emphasis>Evolution</emphasis> is a <emphasis>change</emphasis> in the <emphasis><link target-id="element-23">allele frequencies</link></emphasis> observed in a population over time (i.e. over generations). </item>
+	</list><para id="element-664">Agents of evolution cause allele frequencies to change because they result in differential survival and reproduction.  That is, not every individual has an equal chance of surviving, reproducing and contributing surviving offspring to the next generation. (The survival of offspring is key; if you reproduce but your kids don't survive to reproduce then you are evolutionarily inconsequential in terms of your allelic contribution to future generations.) Instead, for reasons that vary with the agent, some phenotypes, and their responsible genotypes, are more likely to survive or to reproduce and thus, to leave behind offspring than other phenotypes (genotypes).  As a result, alleles of reproductively successful individuals become more common, and those associated with relatively unsuccessful individuals become less common, in subsequent generations. This change in allele frequencies is, of course, evolution.  </para><para id="element-3">Conversely, a population will not evolve if every phenotype (genotype) has an equal probability of surviving and producing surviving offspring. To imagine this, conjure a population in which all of the following conditions are simultaneously met:</para><list id="element-137" list-type="bulleted"><item>all phenotypes are equally likely to survive and to reproduce surviving offspring; there is no natural selection.</item>
+	<item>all phenotypes are equally attractive or have equal access to potential mates; there is no sexual selection.</item>
+	<item>no phenotypes leave behind more offspring than others just by chance; the population must be very large as there is no genetic drift.</item>
+<item>breeding individuals (and their genotypes) are not leaving or entering the population; there is no emigration or immigration.</item></list><para id="element-990">The genetic consequence of all this equality is that the <emphasis>same allele frequencies</emphasis> are maintained from one generation to the next so the population does not evolve.   </para><para id="element-175">Of course, not all organisms reproduce sexually but the point is that a population will not evolve if all genotypes are equally likely to leave behind offspring with their alleles, even if reproduction occurs asexually.  </para><para id="element-374">3. Consider these definitions as you reflect your answers to questions 1 and 2 in the "Are Humans Evolving?" scenario above. Have you learned anything that would encourage you to modify your answers? If so, please do. If not, explain why your responses are appropriate.</para><list id="element-23" list-type="bulleted"><title> Definitions</title>
+<item><emphasis>frequency</emphasis> - the number of times an event or observation, for example a particular measurement or condition like blue eyes, is observed in a collection of events or observations like those comprising a sample, population or study. In this statistical sense, a frequency is equivalent to a proportion. For example, the frequency of a particular allele is equal to the number of times that allele is observed in a population over the total number of alleles for that locus in the population. Can be expressed as a fraction, a percentage, a decimal, or a probability. </item>
+	</list><list id="element-409" list-type="bulleted"><title>Works Cited</title>
+<item>Stefansson, H., Helgason, A., Thorleifsson, G. et al. 2005. A common inversion under selection in Europeans. <cite><cite-title>Nature Genetics</cite-title></cite>. 37:129-137.</item>
+	</list>   
+</section>
+  </content>
+  
+</document>

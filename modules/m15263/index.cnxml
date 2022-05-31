@@ -1,0 +1,101 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Why are  Allele Frequencies Maintained Across Generations When a Population is Not Evolving?</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>444ab395-5064-4788-becb-36d634787a16</md:uuid>
+</metadata>
+  <content>
+    <para id="delete_me">In some respects, understanding how <link document="m15262" target-id="element-637">agents of evolution</link> like natural selection, sexual selection and genetic drift drive changes in <link target-id="element-626">allele frequencies</link> is easier than understanding why in their absence <link document="m15262" target-id="element-990">allele frequencies remain unaltered from one generation to the next</link>. Understanding <link target-id="element-626">genetic equilibrium</link>, however, is incredibly important as it forms the foundation of population genetics. It is the null hypothesis postulating the absence of evolutionary forces and, thus, against which the possibility of evolution is assessed.  Work through the material below to increase your understanding of mechanism responsible for genetic equilibrium.
+    </para><section id="equality"><title>What is happening genetically when all individuals are equally likely to survive and reproduce?</title><para id="element-258">Clearly for alleles to be perpetuated in a population through time, they must be passed from parent to offspring via reproduction. There is no other way (in the absence of continuous immigration)! </para><para id="element-210">Thus, genetically speaking, when all individuals in a sexually reproducing population have an equal chance of surviving to reproduce and of producing surviving offspring:  </para><list id="element-636" list-type="bulleted"><item>each individual has an equal chance of contributing one of the two required gametes to every fertilization event and thus, to the next generation.</item>
+	</list><para id="element-518">A simple way to visualize this is depicted below. Each individual in this population holds two buckets of gametes.  The buckets represent the two types of gametes the individual produces in equal numbers based on its genotype for a single locus.  For example, Individual 1 with genotype <emphasis>Aa</emphasis> will produce equal numbers of <emphasis>A</emphasis> and <emphasis>a</emphasis> allele-containing gametes. In contrast, Individual 2’s two buckets contain equal numbers of <emphasis>A</emphasis> allele-containing gametes reflecting its <emphasis>AA</emphasis> genotype.  If you are unsure why we expect 50% of an individual’s gametes to contain one of two alleles for a given locus and 50% the other allele for that locus, please review meiosis. </para><figure id="element-387"><media id="idp168704" alt=""><image src="../../media/bucket population resize.jpg" mime-type="image/jpeg"/></media><caption>Population of 10 individuals. Each individual's genotype appears in its 'head'. Each individual's buckets represent the two types of gametes the individual produces in equal numbers based on its genotype for a single locus.</caption></figure><para id="element-896">When no agents of evolution are acting on this population, each individual and therefore each bucket, because they contain equal quantities of gametes, has an equal likelihood (probability) of donating one of the two necessary gametes to a successful fertilization event and thus, to the next generation.  Taken as a whole, this population of 10 individuals offers 20 buckets of gametes from which the two gametes for fertilization could possibly come. From which buckets the two gametes actually come depends upon which two individuals end up mating by chance and which of their two alleles the successful gamete contains. </para><para id="element-467">To test your understanding, consider the questions below: </para><exercise id="element-955"><problem id="idp631296">
+		<para id="element-457">
+			Imagine a situation in which a key nutrient the local bird population needs to build egg shells thick enough to withstand the weight of a parent during incubation occurs in very low levels. In this environment, the eggs of birds with <emphasis>aa</emphasis> genotypes crack twice as often during incubation as the eggs of <emphasis>AA</emphasis> and <emphasis>Aa</emphasis> individuals.  A cracked shell always results in chick death. 
+		</para><para id="element-357">Would this situation, and if so how, affect the likelihood that the alleles appearing in the next generation come from the buckets of <emphasis>aa</emphasis>, <emphasis>AA</emphasis> and <emphasis>AA</emphasis> individuals?  Please explain.  </para>
+	</problem>
+
+	<solution id="idm6854560">
+		<para id="element-140">When incubation success varies with genotype as described above, alleles from the 'buckets' of <emphasis>AA</emphasis> and <emphasis>Aa</emphasis> would be twice as likely as alleles from the 'buckets' of <emphasis>aa</emphasis> individuals to make it into the next generation. 
+		</para>
+	</solution>
+</exercise><exercise id="element-836"><problem id="idp6422720">
+		<para id="element-116">In the situation called 'meiotic drive', a particular allele ends up in gametes more frequently than others for the same locus. That is, the usual expectation that on average 50% of an individual's gametes contain one allele for a given locus and 50% the other allele for that locus, is violated resulting in the one of the two alleles being overrepresented in gametes of heterozygotes. (The gametes of homozygotes are not affected.)
+		</para><para id="element-802">a. Review Figure 1. What aspect of this diagram would be altered? Why? Please explain. </para><para id="element-959">b. Even if all individuals have an equal probability of mating in this population (i.e. mating occurs randomly), would all alleles have an equal probability of ending up in a fertilization event and thus the next generation? Why or why not? Please explain.  </para>
+	</problem>
+
+	<solution id="idp2203392">
+		<para id="element-283">a. The relative quantities of gametes in the 'buckets' of heterozygotes would no longer be 50:50.  'Buckets' corresponding to the allele that ends up in gametes more frequently would contain a larger quantity of gametes than 'buckets' representing the alternative allele. 
+		</para><para id="element-707">b. No. All alleles would not have an equal likelihood of ending up in fertilization events even when all individuals are all equally likely to mate. This is true because, when a mating event involves a heterozygote, they will be more likely to contribute the  over-represented allele than the alternative allele to fertilization. This is true because more than half their gametes contain the over-represented allele.</para>
+	</solution>
+</exercise><exercise id="element-131"><problem id="idp2295280">
+		<para id="element-571">In 2005, Stefasson <cite><cite-title>et al.</cite-title></cite> reported the fascinating discovery of an allele, H2, in humans whose presence is associated with increased fertility in Icelandic and European populations. Females with at least one copy of the allele have approximately 3.5%, and males 2.9%, more children on average than non-carriers. The exact mechanism by which the allele affects fertility is unknown. 
+		</para><para id="element-677">Do all people in Icelandic and European populations have an equal probability of contributing one of the two gametes to each fertilization event that successfully produces an offspring? Please explain your conclusion.    </para>
+	</problem>
+
+	<solution id="idp8183504">
+		<para id="element-425">No, all individuals in these populations do not have an equal probability of contributing one of the two gametes to each fertilization event that produces a surviving offspring. This is true because individuals carrying at least one copy of the allele are more likely to successfully conceive, i.e. have more successful fertilization events, than those that do not carry it. 
+		</para>
+	</solution>
+</exercise><exercise id="element-451"><problem id="idm5836432">
+		<para id="element-746">Researchers investigating the H2 allele discussed in problem 3 hypothesized that this allele could be spreading through the population because of 'transmission disequilibrium' a situation analagous to meiotic drive in that offspring are more likely to inherit the H2 allele over the alternative H1 allele from a heterozygotic parent. 
+		</para><para id="element-71">To investigate this, researchers genotyped 3,286 offspring of parents, in which one parent was heterozygous for H2 and the other parent homozygous for the alternative H1 allele, and found that 1,614 of these offspring carried the H2 allele (Stefasson <cite><cite-title>et al.</cite-title></cite>, 2005). Do the data suggest that this allele is spreading through the population as a result of transmission disequilibrium? Yes or no? How do you know? Please explain.</para>
+	</problem>
+
+	<solution id="idm7551584">
+		<para id="element-888">No, the data suggest that this allele is not spreading through the population as a result of transmission disequilibrium because 49% of the offspring of heterozygotes [(1,614/3,286)*100] carry the H2 allele. This compares favorably to the expectation that, if transmission rates are not biased, approximately 50% of the offspring of heterozygotes will carry the H2 allele (and approximately 50% the H1 allele).  The two 'buckets' of heterozygotes appear to contain equal quantities of H2 and H1 alleles. </para>
+	</solution>
+</exercise>
+</section>
+<section id="probability"><title>So why do equal probabilities of survival and reproduction reproduce parental allele frequencies in the offspring generation?</title>  <para id="element-510">Hopefully the answer to this question is more obvious now that you understand that an equal likelihood of surviving and producing surviving offspring is really about each individual having an equal chance of providing one of the two gametes to every fertilization event that occurs in a population and produces a surviving offspring. Nothing is operating to bias the chances of an individual contributing a gamete to each and every fertilization event and every individual's two alleles have an equal (50:50) chance of ending up in the gamete involved in fertilization. But in case its not quite clear, let's explore the issue a bit further.</para><para id="element-725">To do this, re-examine the pool of potential gametes depicted as buckets in the cartoon above (which is repeated below for your benefit) and answer the questions that follow.</para><figure id="element-974"><media id="idp79216" alt=""><image src="../../media/bucket population resize.jpg" mime-type="image/jpeg"/></media><caption>Population of 10 individuals. Each individual's genotype appears in its 'head'. Each individual's buckets represent the two types of gametes the individual produces in equal numbers based on its genotype for a single locus.</caption> </figure><exercise id="element-918"><problem id="idp1810928">
+		<para id="element-494">a. If a gamete is randomly selected from this population, as happens when each individual has an equal chance of surviving and reproducing, what is the likelihood (probability) that it contains an <emphasis>A</emphasis> allele?  
+		</para><para id="element-83">b. Explain the reasoning behind your response to question a.   </para>
+	</problem>
+
+	<solution id="idp9203504">
+		<para id="element-890">Much as there is a 13 in 20 chance of blindly pulling a gold chip out of a bag of 20 chips of which 13 are gold and 7 blue (and they differ in no other way), there is a 13 in 20 or 65% chance that the gamete would contain an <emphasis>A</emphasis> allele, if a a gamete were randomly selected from the population above (13/20 = 65/100 = 0.65*100 = 65%). Buckets of <emphasis>A</emphasis> alleles are nearly twice as common as buckets of <emphasis>a</emphasis> alleles. Consequently when reproduction is random, as happens when every individual has an equal probability of surviving and reproducing, any randomly selected parent is nearly twice as likely to be carrying an <emphasis>A</emphasis> allele as opposed to an <emphasis>a</emphasis> allele.
+		</para>
+	</solution>
+</exercise><para id="element-985">Now consider the following questions.</para><exercise id="element-699"><problem id="idp3204752">
+		<para id="element-256">a. If 15 random matings took place in this population, requiring a total of 30 gametes to be randomly selected, what is the likelihood that each randomly selected gamete contains an <emphasis>A</emphasis> allele? How about an <emphasis>a</emphasis> allele?  
+		</para><para id="element-7">b. Explain the reasoning supporting your response to question a.  </para><para id="element-346">c. Imagine all 30 of the gametes resulting from 15 random matings displayed on a piece of paper in front of you, how frequently would you expect the <emphasis>A</emphasis> allele to occur in this collection? The <emphasis>a</emphasis> allele? Why? Please explain.  </para><para id="element-45">d. Review your responses to questions a and c. What do they tell you about how likely (frequently) the <emphasis>A</emphasis> allele is to appear in the offspring population? The <emphasis>a</emphasis> allele?  Why? Please explain.</para>
+	</problem>
+
+	<solution id="idp226080">
+		<para id="element-199">Ideally, your responses to questions a and c were identical.  For each of the 15 random mating events, the probability that a contributed gamete contains an <emphasis>A</emphasis> allele is 13/20 (65%) and an <emphasis>a</emphasis> allele 7/20 (35%). This is true because each gamete selection event is independent; the allele one gamete contains does not in anyway influence what allele the second gamete of a fertilization event will contain if mating is random. (This is not true is mating is not random. Can you provide an example?) 
+		</para><para id="element-655">Since the above is true for each individual mating event, the overall allelic composition of the resulting offspring generation will simply reflect the probability associated with picking each allele during each random gamete selection event summed for all 30 events.  Therefore, on average 65% of the 30 alleles will be <emphasis>A</emphasis> and 35% <emphasis>a</emphasis> in the offspring generation if mating is truly random.   </para>
+	</solution>
+</exercise><para id="element-167">Now that we know the frequency with which we expect <emphasis>A</emphasis> and <emphasis>a</emphasis> alleles to appear in the offspring generation when all individuals in a population have an equal probability of surviving and producing surviving offspring, let's explicitly and consciously compare them to the frequency with which these same alleles appear in the parent population and, finally, reflect on the question titling this section.</para><exercise id="element-873"><problem id="idm6886272">
+		<para id="element-883">a. How does the probability (likelihood) that an allele will make it into the offspring generation compare to the frequency with which that allele occurs in the parental generation?
+		</para><para id="element-986">b.  Compare your responses to Problems 1, 2a, 2c, and 3a. What do they suggest about the relationship between the frequency with which an allele appears in the parental generation, its probability of appearing in parental generation gametes, and ultimately its frequency in the offspring generation when mating is random?  Why? Please explain. </para>
+	</problem>
+
+	<solution id="idp2083328">
+		<para id="element-598">As is hopefully now clear, when all individuals in a population have an equal probability of surviving and reproducing successfully the probability that an allele ends up in a fertilization event and thus, in the offspring generation is equal to the frequency with which that allele appears in the parent generation. That is, when no agents of evolution are acting on a population, the allele frequencies observed in the offspring generation will be the same as those observed in the population producing them. 
+		</para>
+	</solution>
+</exercise><exercise id="element-791"><problem id="idm6269920">
+		<para id="element-822">In reality, would you expect offspring generation allele frequencies to always be perfectly identical to those of the parental generation when mating is random? Why or why not? Please explain.
+		</para>
+	</problem>
+
+	<solution id="idp957648">
+		<para id="element-410">Of course in practice, all populations are subject to genetic drift (an agent of evolution) where, just by chance, some individuals will reproduce more frequently than others making a disproportionate contribution to the next generation. This effect will be most pronounced in small populations, like that in the example above, and least in very large ones. 
+		</para>
+	</solution>
+</exercise><exercise id="element-230"><problem id="idm6782384">
+		<para id="element-871">
+			Test your understanding by returning to the scenario depicted in Problem 3 of the previous section. It turns out that the allele associated with increased fertility, referred to as H2, is found in 21% of the loci of people of European descent.
+		</para><para id="element-233">a. If this population is not evolving with respect to this allele, how frequently should this allele occur in this population 200 years from now? Why? Please explain.  </para><para id="element-49">b. Draw a figure (graph) illustrating your prediction from part a. Please make sure to label your axes and include a figure <link target-id="element-626">legend</link>.</para>
+	</problem>
+
+	<solution id="idm6439952">
+		<para id="element-291">a. In the absence of any evolutionary processes including genetic drift operating on this population, this allele should still occur in 21% of the population 200 years from now. This is expected because the H2 allele currently occurs in 21% of the population's loci, consequently 21% of all 'buckets' in the population contain this allele, leading 21% of the gametes involved in fertilization events to contain the H2 allele, causing the H2 allele to occur in 21% of the loci in the next generation. This will be repeated generation after generation for 200 years in the absence of an evolutionary force.</para><figure id="element-566"><media id="idp840592" alt=""><image src="../../media/Null resize.jpg" mime-type="image/jpeg"/></media> <caption> Expected frequency of the H2 allele over a 200 year period if the European population is not evolving with respect to this allele. </caption></figure>
+	</solution>
+</exercise><list id="element-626" list-type="bulleted"><title> Definitions</title>
+<item><emphasis>frequency</emphasis> - the number of times an event or observation, for example a particular measurement or condition like blue eyes, is observed in a collection of events or observations like those comprising a sample, population or study. In this statistical sense, a frequency is equivalent to a proportion. For example, the frequency of a particular allele is equal to the number of times that allele is observed in a population over the total number of alleles for that locus in the population. Can be expressed as a fraction, a percentage, a decimal, or a probability. </item>
+<item><emphasis>genetic equilibrium</emphasis> - state of a population in which allele frequencies remain unchanged from one generation to the next.</item>
+<item> <emphasis>legend</emphasis> - a one or two sentence description of the variables depicted in a figure (graph).</item>
+</list><list id="element-207" list-type="bulleted"><title>Works Cited</title>
+<item>Stefansson, H., Helgason, A., Thorleifsson, G. et al. 2005. A common inversion under selection in Europeans. <cite><cite-title>Nature Genetics</cite-title></cite>. 37:129-137.</item>
+</list>  
+</section> 
+  </content>
+  
+</document>

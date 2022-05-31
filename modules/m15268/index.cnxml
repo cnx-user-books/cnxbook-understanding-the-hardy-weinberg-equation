@@ -1,0 +1,93 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Generalizing from the specific case: Introducing the Hardy-Weinberg Equation</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>bcde3360-aa94-43e0-8c35-52f71f756411</md:uuid>
+</metadata>
+  <content>
+<section id="generalizing">
+<title> Formulating the Components of the Hardy-Weinberg Equation</title>
+    <para id="delete_me">The probability rule we used in another <link document="m15266" target-id="element-975">module</link> to predict <emphasis>genotype</emphasis> <link target-id="element-690">frequencies</link> in the offspring generation of a specific population:</para><note type="Rule" id="idp3928944"><label>Rule</label>If every individual in a population has an equal probability of surviving and producing surviving offspring, then a <emphasis>genotype</emphasis> is expected to appear in the offspring generation with a <link target-id="element-690">frequency (probability)</link> equal to the mathematical product of the frequency with which each <emphasis>allele</emphasis> that forms the genotype occurs in the population producing it.</note><para id="element-164">can be use to generate a <emphasis>general formula</emphasis> for doing the same thing.  That is, we can create a formula that describes how frequently particular <emphasis>genotypes</emphasis> will appear in the offspring generation when a population is not subject to an agent of evolution. This formula is known as the Hardy-Weinberg equation.</para><para id="element-456">To do this, we will first generate the individual elements of the Hardy-Weinberg equation. </para><para id="element-0">As the boxed rule above says, offspring <emphasis>genotype</emphasis> frequencies are calculated using parental <emphasis>allele</emphasis> frequencies. So imagine a population that has only two alleles for a given locus, <emphasis>A</emphasis> and <emphasis>a</emphasis>, and that in this population  </para><list id="element-549" list-type="bulleted"><item> the <emphasis>A</emphasis> allele occurs with a frequency equal to p </item>
+	<item>the <emphasis>a</emphasis> allele occurs with a frequency equal to q </item>
+	</list><para id="element-846">To make sure you understand these phrases, substitute a number for p or for q. For example, p might be 0.4 meaning that the <emphasis>A </emphasis> allele occurs in 40% of the population's loci for this gene. </para><para id="element-714">Notice that, because only two alleles exist in the population for this locus, the frequencies of the <emphasis>A</emphasis> and <emphasis>a</emphasis> alleles, p and q respectively, must sum to 1, the equivalent of 100%. Or</para><list id="element-214" list-type="bulleted"><item>p + q = 1 </item></list><para id="element-994">Also notice that, if we know the frequency of only one of the two alleles in a population, we can use simple algebra to work out the frequency of the second. For example, if we know  p, the frequency of the <emphasis>A</emphasis> allele, then   </para><list id="element-514" list-type="bulleted"><item>q = 1 - p</item></list><para id="element-753">And, of course, if we know q, the frequency of the <emphasis>a</emphasis> allele, then</para><list id="element-344" list-type="bulleted"><item>p = 1 - q</item>
+</list><para id="element-1">To confirm your understanding of this relationship between the frequencies with which two alleles occur in a population when only two alleles exist for a given locus, answer the following questions.  </para><exercise id="element-985"><problem id="idp6274384">
+		<para id="element-197">Please explain in your own words why p + q must always equal 1 when only two alleles exist in a population for a given locus. 
+		</para>
+	</problem>
+
+	<solution id="idm3036208">
+		<para id="element-861">An example answer: I imagine a locus as slots for alleles. In diploid organisms, each individual will have two 'slots' or two loci for the particular gene of interest, one per chromosome. If only two alleles exist to fill every slot in this population, the slots that are not filled with one of those two alleles must be filled with the second. Consequently, if 50% of the slots are filled with <emphasis>A</emphasis> alleles, then the remaining 50% must be filled with <emphasis>a</emphasis> alleles to account for 100% of the population's loci. Because 50% is equivalent to a frequency of 0.5, then the frequency of the <emphasis>A</emphasis> allele or p equals 0.5 as does the frequency of the <emphasis>a</emphasis> allele or q so that p + q = 1. </para>
+	</solution>
+</exercise><exercise id="element-653"><problem id="idm10100896">
+		<para id="element-158">Let’s consider a real example of this. In 2005, Stefasson <emphasis>et al.</emphasis> reported the fascinating discovery of an allele in humans whose presence is associated with increased fertility in Icelandic and European populations. Females with at least one copy of the allele have approximately 3.5%, and males 2.9%, more children on average than non-carriers. The exact mechanism by which the allele, known as H2, affects fertility is unknown. 
+		</para><para id="element-45">If we know that 21% of European loci for this gene house the H2 allele, then how frequently must the single alternative allele, H1, for that locus occur in this population? Why?   </para>
+	</problem>
+
+	<solution id="idm616832">
+		<para id="element-642">If 21% of the loci (equivalent to a frequency of 0.21) in a population contain the H2 allele and H1 is the only other possible allele for this locus, then 79% of the remaining loci (equivalent to a frequency of 0.79) must have this allele. No other alleles exist for this locus consequently, if H2 does not occur at a locus then H1 must be there instead.
+		</para>
+	</solution>
+</exercise><exercise id="element-217"><problem id="idp7655792">
+		<para id="element-85">A colleague determines that the B1 and B2 alleles of the B locus both occur with a frequency equal 0.45. Surprised, she redoes her work and confirms her results. 
+		</para><para id="element-735">a. What could be the cause of your colleague's surprise? Please explain.</para><para id="element-223">b. Because your colleague confirms her results she now needs to explain them. She turns to you for assistance. What do you suggest? Please be sure to explain how your explanation accounts for her observations. </para>
+	</problem>
+
+	<solution id="idp11329568">
+		<para id="element-283">Your colleague was probably surprised because she thought that B1 and B2 were the only two alleles that occurred at this locus in this population. Consequently, the discovery that their frequencies, p and q, summed to 0.9 as opposed to 1 was startling. Your suggestion to look for at least one additional allele to account for the 10% of the alleles unaccounted for in her study is well taken. She realizes that the existence of one or more additional alleles would explain the missing 10% and enable her to bring the summed allele frequencies for the B locus to 1. 
+		</para>
+	</solution>
+</exercise><para id="element-296">Now that we have designated p to represent the freqeuncy of <emphasis>A</emphasis> allele and q, the <emphasis>a</emphasis> allele, we are ready to move forward with our efforts to construct the elements of the Hardy-Weinberg equation. Imagine that every individual in a population, in which both copies of both the <emphasis>A</emphasis> and <emphasis>a</emphasis> allele occur, is equally likely to survive and to reproduce. </para><para id="element-574">What possible genotypes could occur in the offspring of this population? </para><exercise id="element-83"><problem id="idp432464">
+		<para id="element-858">To answer this question, determine all the possible genotypes that could be formed from a population of individuals whose loci collectively warehouse numerous copies of <emphasis>A</emphasis> and <emphasis>a</emphasis> alleles. Remember that, because these individuals are all equally likely to reproduce, all combinations of these two alleles have the potential to form.  Visit this <link document="m15266" target-id="delete_me">module</link> if you have questions.
+		</para>
+	</problem>
+
+	<solution id="idp3010144">
+		<para id="element-280">There are four possible genotypes:</para><list id="element-74" list-type="bulleted"><item><emphasis>A</emphasis><emphasis>A</emphasis></item>
+
+	<item><emphasis>a</emphasis><emphasis>a</emphasis></item>
+	<item><emphasis>A</emphasis><emphasis>a</emphasis></item>
+<item><emphasis>a</emphasis><emphasis>A</emphasis></item></list>
+	</solution>
+</exercise><para id="element-553">Now that we know what genotypes could form, we can use the rule highlighted at the very beginning of this module to predict how frequently each of these  <emphasis>genotypes</emphasis> will appear in the offspring generation.    </para><exercise id="element-783"><problem id="idm312160">
+		<para id="element-550">What are these frequencies? Apply the highlighted (boxed) rule above to complete the phrases below using the symbols p and q.  </para><para id="element-891">
+			If all individuals are equally likely to survive and to reproduce, then the  
+		</para><list id="element-978" list-type="bulleted"><item>frequency of genotype <emphasis>AA</emphasis> will equal ____________________</item>
+	<item>frequency of genotype <emphasis>aa</emphasis> will equal _____________________</item>
+	<item>frequency of genotype <emphasis>Aa</emphasis> will equal ____________________</item>
+<item>frequency of genotype <emphasis>aA</emphasis> will equal ____________________</item></list>
+	</problem>
+
+	<solution id="idm8921088">
+		<para id="element-262">Because the <emphasis>Aa</emphasis> and <emphasis>aA</emphasis> genotypes are genetically equivalent, we can summarize the relationships you articulated above as</para><list id="element-1000" list-type="bulleted"><item>frequency of genotype <emphasis>AA</emphasis> will equal p x p = p2</item>
+	<item>frequency of genotype aa<emphasis>aa</emphasis> will equal q x q = q2</item>
+	<item>frequency of genotype <emphasis>Aa</emphasis> will equal 2 x (p x q) = 2pq</item></list><para id="element-481">And there you have it, the three fundamental elements of the Hardy-Weinberg equation that describe how frequently the three possible <emphasis>genotypes</emphasis> will appear in the offspring generation of a population that is not subject to an agent of evolution! Remember that only three genotypes are possible because we are only working with a gene for which only two alleles exist in a population.</para>
+	</solution>
+</exercise><para id="element-556">To test your understanding of these relationships, answer the following questions.  </para><exercise id="element-381"><problem id="idp4163280">
+		<para id="element-930">Please explain in your own words what these three formulae tell us about the relationship between allele frequencies in the population and genotype frequencies in the offspring generation when all individuals are equally likely to survive and to reproduce.  
+		</para>
+	</problem>
+
+	<solution id="idm3544864">
+		<para id="element-703">In plain English, these three relationships tell us that  </para><para id="element-672">1. If we want to know the frequency of the homozygous genotype (<emphasis>AA</emphasis> or <emphasis>aa</emphasis>) in the offspring of a population in which all individuals are equally likely to survive and reproduce, then we simply square the frequency with which the appropriate allele (<emphasis>A</emphasis> or <emphasis>a</emphasis>) occurs population. </para><para id="element-939">2. If we want to know the frequency of the heterozygous genotype (<emphasis>Aa</emphasis>) in the offspring of a population in which all individuals are equally likely to survive and reproduce, then we multiple the frequency with which each allele (<emphasis>A</emphasis> and <emphasis>a</emphasis>) occurs in the population and multiply this result by 2. </para>
+	</solution>
+</exercise><exercise id="element-809"><problem id="idm9226560">
+		<para id="element-446">Return to the scenario described in problem 2. How frequently do you expect to the H1H1, H1H2, and H2H2 genotypes to appear in Europeans if the population is not evolving with respect to this allele?
+		</para><para id="element-121">To solve this problem, review the section above and generate a list of the information you need to generate and describe how you plan to get it. </para>
+	</problem>
+
+	<solution id="idp3126128">
+		<para id="element-815">Check your outline by answering the questions below. </para><para id="element-129">1. How frequently do the H1 and H2 alleles occur in this population? This can be found in solution to problem 2.</para><para id="element-705">2. Calculate the expected frequency of the H1H1, H1H2 and H2H2 genotypes in offspring of this population. To do this, square the frequency with which the H1 allele occurs in the population (p2), multiply the frequency with which the H1 allele occurs with the frequency with which the H2 allele occurs and multiply this result by two (2pq), and finally square the frequency with which the H2 allele occurs in the population (q2). </para>
+	</solution>
+</exercise>
+</section>
+<section id="formalizing">
+<title>Formalizing the Hardy-Weinberg Equation</title>
+<para id="element-416">The formulae generated above - p2, 2pq and q2 - constitute the fundamental components of the Hardy-Weinberg equation. Thus, they describe the genotype frequencies you will see in a population, with respect to a single locus with only two alleles, if the population is not subject to any agent of evolution. That is, all individuals in the population are equally likely to survive and to produce offspring that survive.  </para><para id="element-704">Because together these formulae account for 100% of the genotypes this population could produce, they can be summarized and are often written in the following way:  </para><list id="element-492" list-type="bulleted"><item>p2 (<emphasis>AA</emphasis>) + 2pq (<emphasis>Aa</emphasis>) + q2 (<emphasis>aa</emphasis>) = 1  </item>
+	</list><para id="element-10">In words, this equation says that the values, p2, 2pq and q2, which describe the frequency with which the <emphasis>AA</emphasis>, <emphasis>Aa</emphasis> and <emphasis>aa</emphasis> genotypes occur respectively, sum to 1. </para><para id="element-124">Importantly, and as you applied it in the previous section, the Hardy-Weinberg equation is not necessarily used in the form in which it is written above. That is, you do not set the equation equal to 1 and solve for an unknown. Rather the individual elements p2, 2pq and q2 along with the relationship p + q = 1 are used as needed to solve problems. </para><para id="element-402">Interestingly, the Hardy-Weinberg equation was actually formulated and published independently by both the British mathematician G. H. Hardy and the German physician cum geneticist W. Weinberg in 1908. Because Weinberg published in native German, however, his contribution was not recognized until 1943 at which point the principle was renamed to recognize both contributions.</para><list id="element-690" list-type="bulleted"><title> Definitions</title>
+<item><emphasis>frequency</emphasis> - the number of times an event or observation, for example a particular measurement or condition like blue eyes, is observed in a collection of events or observations like those comprising a sample, population or study. In this statistical sense, a frequency is equivalent to a proportion. For example, the frequency of a particular allele is equal to the number of times that allele is observed in a population over the total number of alleles for that locus in the population. Can be expressed as a fraction, a percentage, a decimal, or a probability. </item>
+<item><emphasis>genetic equilibrium</emphasis> - state of a population in which allele frequencies remain unchanged from one generation to the next.</item>
+</list><list id="element-417" list-type="bulleted"><title>Works Cited</title>
+<item>Stefansson, H., Helgason, A., Thorleifsson, G. et al. 2005. A common inversion under selection in Europeans. <cite><cite-title>Nature Genetics</cite-title></cite>. 37:129-137.</item>
+</list>  
+</section>
+  </content>
+  
+</document>
